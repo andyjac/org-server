@@ -6,7 +6,7 @@
 ;; Maintainer: Andrew Jacobson <andrew.isaac.jacobson@gmail.com>
 ;; Created: December 02, 2022
 ;; Modified: December 02, 2022
-;; Version: 0.0.1
+;; Version: 0.0.2
 ;; Keywords: abbrev bib c calendar comm convenience data docs emulations extensions faces files frames games hardware help hypermedia i18n internal languages lisp local maint mail matching mouse multimedia news outlines processes terminals tex tools unix vc wp
 ;; Homepage: https://github.com/andrew/org-server
 ;; Package-Requires: ((emacs "24.3"))
