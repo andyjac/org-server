@@ -19,7 +19,10 @@
 ;;
 ;;; Code:
 
-(message "hello from 'org-server.el'")
+(defun org-server--say-hello ()
+  "Greets the user."
+  (interactive)
+  (message "hello from 'org-server.el'"))
 
 (provide 'org-server)
 ;;; org-server.el ends here
